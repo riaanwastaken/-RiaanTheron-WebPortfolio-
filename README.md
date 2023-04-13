@@ -1,6 +1,6 @@
-# Online Portfolio of Riaan Theron
+# Online Resume of Riaan Theron
 
-a Static Online version of my Resume which I am continiously improving.
+I have created a static online version of my resume, which I continue to refine and enhance over time.
 
 ## Credits
 
