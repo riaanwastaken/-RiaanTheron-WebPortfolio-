@@ -25,3 +25,4 @@ This project is licensed under the MIT License.
 🖥️ Designed and developed by Riaan Theron.
 
 GitHub: [@riaanwastaken](https://github.com/riaanwastaken)
+
